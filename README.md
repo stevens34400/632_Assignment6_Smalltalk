@@ -16,5 +16,3 @@ This project implements a simple ride-sharing system with the following componen
 
 5. **System Functionality**:
    - Demonstrates polymorphism by storing and managing rides of different types.
-
-Feel free to explore and extend the functionality as needed.
